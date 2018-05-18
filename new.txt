@@ -1,0 +1,1 @@
+x,y,key,points,lastAttacked,prevFarm,prevScout,template,fullReturns,totalFarm,totalAttacks,wall,dist,order,close
